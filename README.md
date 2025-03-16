@@ -114,9 +114,9 @@ http://localhost:8080/swagger-ui/index.html#/
   
   http://localhost:8080/tickets
   
-  http://localhost:8080/api/users/{id}
+  http://localhost:8080/users/{id}
   
-8. In order to delete a ticket make a DELETE request to:
+8. In order to delete a ticket, make a DELETE request to:
 9. 
   http://localhost:8080/tickets/cancel/{ticketId}
 
